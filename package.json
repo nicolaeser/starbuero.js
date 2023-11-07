@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "axios": "^1.5.1"
+  },
+  "name": "starbuero.js",
+  "version": "2.0.0",
+  "description": " With Starbuero.js you easily interact with Starbuero's API and it's super easy!",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaeser/starbuero.js.git"
+  },
+  "keywords": [
+    "starbuero",
+    "api",
+    "development"
+  ],
+  "author": "Nico Laeser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolaeser/starbuero.js/issues"
+  },
+  "homepage": "https://github.com/nicolaeser/starbuero.js#readme"
+}
